@@ -5,3 +5,4 @@ My name is Jesse. This is a career pivot. I will be a great developer in short t
 I love meat and eating one meal a day. 
 
 Also everything is everything
+,m
